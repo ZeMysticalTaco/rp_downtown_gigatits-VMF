@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	// Original shader: WorldAdditiveTransEnvMapWithMaskedTexture
+	"$basetexture" "hl2_leak/Glass/glasswindow066f"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"%keywords" "c17industrial"
+	"$envmapmask" "hl2_leak/glass/glasswindow066f_mask"
+	"$translucent" 1
+}

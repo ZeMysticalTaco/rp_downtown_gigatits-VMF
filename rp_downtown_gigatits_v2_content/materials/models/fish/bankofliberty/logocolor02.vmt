@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fish/bankofliberty/logocolor02"
+	"$surfaceprop" metal
+}

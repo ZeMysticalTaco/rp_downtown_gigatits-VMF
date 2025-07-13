@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Concrete/concretewall032d"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17sewers,wasteland"
+	"$bumpmap" "Concrete/concretewall032b_normal"
+	"$parallaxmap" "Concrete/concretewall032b_height"
+	"$parallaxmapscale" ".05"
+}

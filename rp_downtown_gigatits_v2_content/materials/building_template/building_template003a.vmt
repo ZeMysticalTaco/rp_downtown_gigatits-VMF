@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Building_Template/Building_Template003a"
+	"$bumpmap" "Building_Template/Building_Template003a_normal"
+	"$surfaceprop"  "concrete"
+	
+	"$detail" detail\noise_detail_01
+	"$detailscale" 6
+	"$detailblendfactor" 0.6
+	"$detailblendmode" 0
+}

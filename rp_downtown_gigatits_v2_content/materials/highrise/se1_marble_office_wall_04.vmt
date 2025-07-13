@@ -1,0 +1,17 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "HIGHRISE/SE1_marble_office_wall_04"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "HIGHRISE/SE1_marble_office_wall_04_Normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .75 .75 .75 ]"
+	"$envmapcontrast" "1"
+	"$normalmapalphaenvmapmask" 1
+	"%keywords" "highrise"
+} 
+
+
+
+
+
+

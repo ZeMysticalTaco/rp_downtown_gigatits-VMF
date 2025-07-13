@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "facepunch/BansheeFriend/BCustomTex/MaxPayne2/textures/condemned_building/shinymetal01dirty_256x512"
+	"$surfaceprop" metal
+}

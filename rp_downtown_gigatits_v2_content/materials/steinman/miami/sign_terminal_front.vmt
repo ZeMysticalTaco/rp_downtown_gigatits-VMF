@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "steinman/miami/sign_terminal_front"
+	"$surfaceprop"	metal
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "clubzombo\floor\CZ_carpet01"
+	"$surfaceprop" "carpet"
+	"$selfillum" "1"
+}

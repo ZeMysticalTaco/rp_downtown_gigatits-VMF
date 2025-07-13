@@ -1,0 +1,5 @@
+LightmappedGeneric
+{	
+	"$basetexture" "minecraft/torch2"
+	"$surfaceprop" "wood"
+}
