@@ -20,3 +20,9 @@ Best used with Hammer++.
 # Contributing Map Changes to Low Sodium
 If you wish to create a proposal for a Map Update to Low Sodium, contact me personally `thetrashmaster.` on Discord.
 Low Sodium Discord: https://discord.gg/RRtQ7v4JRE
+
+# Compiling Warning
+The T-Junc limit of this map was reached a long time ago.
+You must compile with -notjunc in vbsp if you wish to actually run the map.
+
+This map is, predictably, unstable to edit. I wish you the best.
