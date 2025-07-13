@@ -7,8 +7,8 @@ The history of Downtown is built upon the work of every mapper that came before 
 to its very core, and not all of them were the best, this map is dense, and pushes the engine to its very core.
 
 But at the end of the day, the spirit of it should live on. The license provided in this repository requires that
-you release any derivative source of the map to the public, however that may be. So that other ambitious people
-that come after you, may build upon your work too. Just as everyone that came before you did.
+you release any derivative source of the map to the public, however that may be. So that other ambitious 
+people that come after you, may build upon your work too. Just as everyone that came before you did.
 
 # Previously
 
